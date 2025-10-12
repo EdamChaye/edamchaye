@@ -1,9 +1,8 @@
 ## Hi! I am Edam
 # 💫 About Me:
-- 🎓 **AI and Instrumentation Engineering Student** at [INSAT](https://www.insat.rnu.tn/) (National Institute of Applied Sciences and Technology)
+- 🎓 **AI and Instrumentation Engineer** Graduated from [INSAT](https://www.insat.rnu.tn/) (National Institute of Applied Sciences and Technology)
 - 💡 Passionate about **Generative AI** and **Large Language Models (LLM)** applications
 - 🛠️ Currently expanding my knowledge in **Machine Learning**, **NLP**, and **AI-driven solutions**
-- 🌍 Committed to **open-source contributions** and community-driven AI projects
 - 📈 Always striving for continuous improvement and embracing new challenges
 
 # 💻 Tech Stack:
