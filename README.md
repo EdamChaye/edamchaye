@@ -2,7 +2,7 @@
 # 💫 About Me:
 - 🎓 **AI and Instrumentation Engineer** Graduated from [INSAT](https://www.insat.rnu.tn/) (National Institute of Applied Sciences and Technology)
 - 💡 Passionate about **Generative AI** and **Large Language Models (LLM)** applications
-- 🛠️ Currently expanding my knowledge in **Machine Learning**, **NLP**, and **AI-driven solutions**
+- 🛠️ Currently expanding my knowledge in **Agentic AI**, **RAG systems**, and **AI-driven solutions**
 - 📈 Always striving for continuous improvement and embracing new challenges
 
 # 💻 Tech Stack:
